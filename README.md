@@ -36,14 +36,6 @@ Coffee Bar is a modern and fully responsive landing page for a coffee shop / caf
 
 No build tools or backend setup are required; this is a **pure front-end static project**.
 
-### 📸 Screenshots (Optional)
-
-Add screenshots or GIFs of your landing page here:
-
-- Home / hero section
-- Menu section
-- Contact section
-- Mobile view
 
 ### 💡 Future Improvements (Optional)
 
